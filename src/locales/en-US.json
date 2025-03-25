@@ -1,0 +1,66 @@
+{
+  "title": "Deep Research",
+  "copyright": "Created with ❤️ by {{name}} team",
+  "research": {
+    "common": {
+      "startThinking": "Start Thinking",
+      "thinkingQuestion": "Thinking Question...",
+      "startResearch": "Start Research",
+      "writeReport": "Write Report",
+      "continueResearch": "Continue Research",
+      "rewriteReport": "Rewrite Report",
+      "sources": "Sources",
+      "thinking": "Thinking...",
+      "research": "Research...",
+      "writing": "Writing...",
+      "newResearch": "New Research"
+    },
+    "topic": {
+      "title": "1. Research Topics",
+      "topicLabel": "Research topics",
+      "topicPlaceholder": "Any questions you want to know..."
+    },
+    "feedback": {
+      "title": "2. Ask Question",
+      "emptyTip": "Waiting for research topic...",
+      "feedbackLabel": "Your Answer (Optional)",
+      "feedbackPlaceholder": "You can answer whatever you want..."
+    },
+    "searchResult": {
+      "title": "3. Information Collection",
+      "emptyTip": "Waiting for research task...",
+      "suggestionLabel": "Research suggestions (Optional)",
+      "suggestionPlaceholder": "Whether to add or adjust research directions..."
+    },
+    "finalReport": {
+      "title": "4. Final Report",
+      "emptyTip": "Waiting for data to be collated...",
+      "researchedInfor": "Researched {{total}} websites"
+    },
+    "history": {
+      "title": "History",
+      "name": "Title",
+      "emptyTip": "No history records",
+      "date": "Date",
+      "actions": "Action",
+      "load": "Load",
+      "delete": "Delete",
+      "close": "Close",
+      "noHistory": "No history records"
+    }
+  },
+  "setting": {
+    "title": "Setting",
+    "description": "All settings are saved in the user's browser.",
+    "local": "Local",
+    "server": "Server",
+    "apiKeyLabel": "Gemini Api Key",
+    "apiKeyPlaceholder": "Please enter the Gemini Api Key",
+    "apiProxyLabel": "Api Proxy Url",
+    "accessPassword": "Access Password",
+    "accessPasswordPlaceholder": "Please enter the server access password",
+    "language": "Language",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
